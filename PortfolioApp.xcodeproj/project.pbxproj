@@ -8,17 +8,54 @@
 
 /* Begin PBXBuildFile section */
 		5688B5D029041AA6001759D9 /* PortfolioAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5688B5CF29041AA6001759D9 /* PortfolioAppApp.swift */; };
-		5688B5D229041AA6001759D9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5688B5D129041AA6001759D9 /* ContentView.swift */; };
+		5688B5D229041AA6001759D9 /* PorfolioView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5688B5D129041AA6001759D9 /* PorfolioView.swift */; };
 		5688B5D429041AA8001759D9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5688B5D329041AA8001759D9 /* Assets.xcassets */; };
 		5688B5D729041AA8001759D9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5688B5D629041AA8001759D9 /* Preview Assets.xcassets */; };
+		56C8445829041EFD00F082E2 /* Montserrat-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 56C8444F29041EFC00F082E2 /* Montserrat-Regular.ttf */; };
+		56C8445929041EFD00F082E2 /* Montserrat-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 56C8445029041EFC00F082E2 /* Montserrat-Bold.ttf */; };
+		56C8445A29041EFD00F082E2 /* Montserrat-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 56C8445129041EFC00F082E2 /* Montserrat-MediumItalic.ttf */; };
+		56C8445B29041EFD00F082E2 /* Montserrat-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 56C8445229041EFC00F082E2 /* Montserrat-Medium.ttf */; };
+		56C8445C29041EFD00F082E2 /* Montserrat-ThinItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 56C8445329041EFD00F082E2 /* Montserrat-ThinItalic.ttf */; };
+		56C8445D29041EFD00F082E2 /* Montserrat-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 56C8445429041EFD00F082E2 /* Montserrat-Thin.ttf */; };
+		56C8445E29041EFD00F082E2 /* Montserrat-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 56C8445529041EFD00F082E2 /* Montserrat-SemiBold.ttf */; };
+		56C8445F29041EFD00F082E2 /* Montserrat-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 56C8445629041EFD00F082E2 /* Montserrat-Italic.ttf */; };
+		56C8446029041EFD00F082E2 /* Montserrat-SemiBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 56C8445729041EFD00F082E2 /* Montserrat-SemiBoldItalic.ttf */; };
+		56C8446329041F9300F082E2 /* ColorExtentions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56C8446229041F9300F082E2 /* ColorExtentions.swift */; };
+		56C8446629041FFF00F082E2 /* FontManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56C8446529041FFF00F082E2 /* FontManager.swift */; };
+		56C844682904218100F082E2 /* Portfolio.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56C844672904218100F082E2 /* Portfolio.swift */; };
+		56C8446A290422D900F082E2 /* AppModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56C84469290422D900F082E2 /* AppModel.swift */; };
+		56C8446D290450EE00F082E2 /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56C8446C290450EE00F082E2 /* HeaderView.swift */; };
+		56C8446F2904561600F082E2 /* SkillView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56C8446E2904561600F082E2 /* SkillView.swift */; };
+		56C844722904584A00F082E2 /* SkillsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56C844712904584A00F082E2 /* SkillsView.swift */; };
+		56C844742904601500F082E2 /* ExperienceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56C844732904601500F082E2 /* ExperienceView.swift */; };
+		56C844762904628400F082E2 /* ExperiencesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56C844752904628400F082E2 /* ExperiencesView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		5688B5CC29041AA6001759D9 /* PortfolioApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PortfolioApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5688B5CF29041AA6001759D9 /* PortfolioAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PortfolioAppApp.swift; sourceTree = "<group>"; };
-		5688B5D129041AA6001759D9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		5688B5D129041AA6001759D9 /* PorfolioView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PorfolioView.swift; sourceTree = "<group>"; };
 		5688B5D329041AA8001759D9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5688B5D629041AA8001759D9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		5688B5DD29041BDA001759D9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		56C8444F29041EFC00F082E2 /* Montserrat-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-Regular.ttf"; sourceTree = "<group>"; };
+		56C8445029041EFC00F082E2 /* Montserrat-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-Bold.ttf"; sourceTree = "<group>"; };
+		56C8445129041EFC00F082E2 /* Montserrat-MediumItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-MediumItalic.ttf"; sourceTree = "<group>"; };
+		56C8445229041EFC00F082E2 /* Montserrat-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-Medium.ttf"; sourceTree = "<group>"; };
+		56C8445329041EFD00F082E2 /* Montserrat-ThinItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-ThinItalic.ttf"; sourceTree = "<group>"; };
+		56C8445429041EFD00F082E2 /* Montserrat-Thin.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-Thin.ttf"; sourceTree = "<group>"; };
+		56C8445529041EFD00F082E2 /* Montserrat-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-SemiBold.ttf"; sourceTree = "<group>"; };
+		56C8445629041EFD00F082E2 /* Montserrat-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-Italic.ttf"; sourceTree = "<group>"; };
+		56C8445729041EFD00F082E2 /* Montserrat-SemiBoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-SemiBoldItalic.ttf"; sourceTree = "<group>"; };
+		56C8446229041F9300F082E2 /* ColorExtentions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorExtentions.swift; sourceTree = "<group>"; };
+		56C8446529041FFF00F082E2 /* FontManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FontManager.swift; sourceTree = "<group>"; };
+		56C844672904218100F082E2 /* Portfolio.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Portfolio.swift; sourceTree = "<group>"; };
+		56C84469290422D900F082E2 /* AppModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppModel.swift; sourceTree = "<group>"; };
+		56C8446C290450EE00F082E2 /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
+		56C8446E2904561600F082E2 /* SkillView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SkillView.swift; sourceTree = "<group>"; };
+		56C844712904584A00F082E2 /* SkillsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SkillsView.swift; sourceTree = "<group>"; };
+		56C844732904601500F082E2 /* ExperienceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExperienceView.swift; sourceTree = "<group>"; };
+		56C844752904628400F082E2 /* ExperiencesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExperiencesView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +72,7 @@
 		5688B5C329041AA6001759D9 = {
 			isa = PBXGroup;
 			children = (
+				5688B5DD29041BDA001759D9 /* Info.plist */,
 				5688B5CE29041AA6001759D9 /* PortfolioApp */,
 				5688B5CD29041AA6001759D9 /* Products */,
 			);
@@ -51,10 +89,12 @@
 		5688B5CE29041AA6001759D9 /* PortfolioApp */ = {
 			isa = PBXGroup;
 			children = (
-				5688B5CF29041AA6001759D9 /* PortfolioAppApp.swift */,
-				5688B5D129041AA6001759D9 /* ContentView.swift */,
-				5688B5D329041AA8001759D9 /* Assets.xcassets */,
+				5688B5E029041D4D001759D9 /* Code */,
+				56C8446129041F6100F082E2 /* Extentions */,
+				56C8446429041FE000F082E2 /* Utils */,
 				5688B5D529041AA8001759D9 /* Preview Content */,
+				5688B5D329041AA8001759D9 /* Assets.xcassets */,
+				5688B5DF29041D46001759D9 /* Resources */,
 			);
 			path = PortfolioApp;
 			sourceTree = "<group>";
@@ -65,6 +105,102 @@
 				5688B5D629041AA8001759D9 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		5688B5DF29041D46001759D9 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				56C8444E29041E8000F082E2 /* Fonts */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		5688B5E029041D4D001759D9 /* Code */ = {
+			isa = PBXGroup;
+			children = (
+				5688B5E129041D52001759D9 /* Controller */,
+				5688B5E329041D5E001759D9 /* Views */,
+				5688B5E429041D63001759D9 /* Services */,
+				5688B5E229041D59001759D9 /* Model */,
+			);
+			path = Code;
+			sourceTree = "<group>";
+		};
+		5688B5E129041D52001759D9 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				5688B5CF29041AA6001759D9 /* PortfolioAppApp.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		5688B5E229041D59001759D9 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				56C844672904218100F082E2 /* Portfolio.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		5688B5E329041D5E001759D9 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				56C8446B290450D200F082E2 /* SupportView */,
+				5688B5D129041AA6001759D9 /* PorfolioView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		5688B5E429041D63001759D9 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				56C84469290422D900F082E2 /* AppModel.swift */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		56C8444E29041E8000F082E2 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				56C8445029041EFC00F082E2 /* Montserrat-Bold.ttf */,
+				56C8445629041EFD00F082E2 /* Montserrat-Italic.ttf */,
+				56C8445229041EFC00F082E2 /* Montserrat-Medium.ttf */,
+				56C8445129041EFC00F082E2 /* Montserrat-MediumItalic.ttf */,
+				56C8444F29041EFC00F082E2 /* Montserrat-Regular.ttf */,
+				56C8445529041EFD00F082E2 /* Montserrat-SemiBold.ttf */,
+				56C8445729041EFD00F082E2 /* Montserrat-SemiBoldItalic.ttf */,
+				56C8445429041EFD00F082E2 /* Montserrat-Thin.ttf */,
+				56C8445329041EFD00F082E2 /* Montserrat-ThinItalic.ttf */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		56C8446129041F6100F082E2 /* Extentions */ = {
+			isa = PBXGroup;
+			children = (
+				56C8446229041F9300F082E2 /* ColorExtentions.swift */,
+			);
+			path = Extentions;
+			sourceTree = "<group>";
+		};
+		56C8446429041FE000F082E2 /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				56C8446529041FFF00F082E2 /* FontManager.swift */,
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		56C8446B290450D200F082E2 /* SupportView */ = {
+			isa = PBXGroup;
+			children = (
+				56C8446C290450EE00F082E2 /* HeaderView.swift */,
+				56C8446E2904561600F082E2 /* SkillView.swift */,
+				56C844712904584A00F082E2 /* SkillsView.swift */,
+				56C844732904601500F082E2 /* ExperienceView.swift */,
+				56C844752904628400F082E2 /* ExperiencesView.swift */,
+			);
+			path = SupportView;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,7 +261,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				56C8445A29041EFD00F082E2 /* Montserrat-MediumItalic.ttf in Resources */,
+				56C8446029041EFD00F082E2 /* Montserrat-SemiBoldItalic.ttf in Resources */,
+				56C8445C29041EFD00F082E2 /* Montserrat-ThinItalic.ttf in Resources */,
+				56C8445929041EFD00F082E2 /* Montserrat-Bold.ttf in Resources */,
+				56C8445829041EFD00F082E2 /* Montserrat-Regular.ttf in Resources */,
 				5688B5D729041AA8001759D9 /* Preview Assets.xcassets in Resources */,
+				56C8445F29041EFD00F082E2 /* Montserrat-Italic.ttf in Resources */,
+				56C8445B29041EFD00F082E2 /* Montserrat-Medium.ttf in Resources */,
+				56C8445E29041EFD00F082E2 /* Montserrat-SemiBold.ttf in Resources */,
+				56C8445D29041EFD00F082E2 /* Montserrat-Thin.ttf in Resources */,
 				5688B5D429041AA8001759D9 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -137,8 +282,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5688B5D229041AA6001759D9 /* ContentView.swift in Sources */,
+				5688B5D229041AA6001759D9 /* PorfolioView.swift in Sources */,
+				56C8446A290422D900F082E2 /* AppModel.swift in Sources */,
+				56C844762904628400F082E2 /* ExperiencesView.swift in Sources */,
+				56C8446329041F9300F082E2 /* ColorExtentions.swift in Sources */,
+				56C844722904584A00F082E2 /* SkillsView.swift in Sources */,
+				56C8446629041FFF00F082E2 /* FontManager.swift in Sources */,
+				56C8446F2904561600F082E2 /* SkillView.swift in Sources */,
 				5688B5D029041AA6001759D9 /* PortfolioAppApp.swift in Sources */,
+				56C844682904218100F082E2 /* Portfolio.swift in Sources */,
+				56C844742904601500F082E2 /* ExperienceView.swift in Sources */,
+				56C8446D290450EE00F082E2 /* HeaderView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -271,7 +425,8 @@
 				DEVELOPMENT_ASSET_PATHS = "\"PortfolioApp/Preview Content\"";
 				DEVELOPMENT_TEAM = YDF5T83ATT;
 				ENABLE_PREVIEWS = YES;
-				GENERATE_INFOPLIST_FILE = YES;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = /Users/IslamSWIRA/Downloads/CVs/PortfolioApp/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -300,7 +455,8 @@
 				DEVELOPMENT_ASSET_PATHS = "\"PortfolioApp/Preview Content\"";
 				DEVELOPMENT_TEAM = YDF5T83ATT;
 				ENABLE_PREVIEWS = YES;
-				GENERATE_INFOPLIST_FILE = YES;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = /Users/IslamSWIRA/Downloads/CVs/PortfolioApp/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
